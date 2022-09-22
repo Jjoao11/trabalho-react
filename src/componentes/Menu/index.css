@@ -1,0 +1,48 @@
+header{
+  width: 100vw;
+  height: 150px;
+  background-color: black;
+  color:white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid blue;
+ 
+
+}
+.logo{
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.menu ul{
+  display: flex;
+  gap: 400px;
+  margin-right: 280px;
+  margin-bottom: ;
+  margin-left: 100px;
+ margin-top: 30px;
+}
+.cor{
+  text-decoration: none;
+  color:white;
+  
+}
+h1{
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+  
+
+  
+
+.ver{ 
+  height: 150px;
+  width: 250px;
+  margin-left: 0px;
+} 
+
+
+
+
